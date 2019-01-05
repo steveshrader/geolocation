@@ -1,0 +1,272 @@
+[
+    [
+        "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app",
+        {
+            "sourcePath": "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546693887341,
+            "changeTime": 1546693887341,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546693887341,
+            "changeTime": 1546693887341,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546698520847,
+            "changeTime": 1546698520847,
+            "contentHash": "26700fa385d7435b9658ffa27095dde3388347b1"
+        }
+    ],
+    [
+        "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546693887341,
+            "changeTime": 1546693887341,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546694484267,
+            "changeTime": 1546694484267,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SteveShrader\\Projects\\geolocation",
+        {
+            "sourcePath": "C:\\Users\\SteveShrader\\Projects\\geolocation",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546694469582,
+            "changeTime": 1546694469582,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 403,
+            "modifiedTime": 1546695136201,
+            "changeTime": 1546695136201,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9582,
+            "modifiedTime": 1546695136213,
+            "changeTime": 1546695136213,
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9630,
+            "modifiedTime": 1546695136224,
+            "changeTime": 1546695136224,
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9630,
+            "modifiedTime": 1546695136235,
+            "changeTime": 1546695136235,
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9582,
+            "modifiedTime": 1546695136248,
+            "changeTime": 1546695136248,
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 366,
+            "modifiedTime": 1546695136251,
+            "changeTime": 1546695136251,
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "sourcePath": "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546695136196,
+            "changeTime": 1546695136196,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account",
+        {
+            "sourcePath": "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546695136195,
+            "changeTime": 1546695136195,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546695136195,
+            "changeTime": 1546695136195,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546695136243,
+            "changeTime": 1546695136243,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\permissionsets",
+        {
+            "sourcePath": "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546695136250,
+            "changeTime": 1546695136250,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546698520890,
+            "changeTime": 1546698520890,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+        }
+    ],
+    [
+        "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 292,
+            "modifiedTime": 1546698544349,
+            "changeTime": 1546698544349,
+            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7"
+        }
+    ],
+    [
+        "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\SteveShrader\\Projects\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1546698520894,
+            "changeTime": 1546698520894,
+            "contentHash": "90ff74999c0787540fd47c4052e748cca6ee6e47"
+        }
+    ]
+]
